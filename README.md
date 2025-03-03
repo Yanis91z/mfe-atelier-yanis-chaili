@@ -32,7 +32,7 @@ mfe-atelier-yanis-chaili
 
 1. Clonez le dépôt :
    ```
-   git clone https://github.com/Yanis91z/mfe-atelier.git
+   git clone https://github.com/Yanis91z/mfe-atelier-yanis-chaili.git
    ```
 
 2. Accédez au dossier `shell` et installez les dépendances :
