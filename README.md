@@ -17,15 +17,16 @@ mfe-atelier-yanis-chaili
 │   ├── .babelrc
 │   ├── package.json
 │   └── webpack.config.js
-└── shell
-    ├── public
-    │   └── index.html
-    ├── src
-    │   ├── App.js
-    │   └── index.js
-    ├── .babelrc
-    ├── package.json
-    └── webpack.config.js
+├── shell
+│    ├── public
+│    │   └── index.html
+│    ├── src
+│    │   ├── App.js
+│    │   └── index.js
+│    ├── .babelrc
+│    ├── package.json
+│    └── webpack.config.js
+└── README.md
 ```
 
 ## Installation
