@@ -1,0 +1,27 @@
+{
+  "name": "mfe-atelier-prenom-nom-shell",
+  "version": "1.0.0",
+  "description": "Shell application for Micro Frontend architecture using Module Federation.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "webpack serve --mode development",
+    "build": "webpack --mode production"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.26.9",
+    "@babel/preset-env": "^7.26.9",
+    "@babel/preset-react": "^7.26.3",
+    "babel-loader": "^10.0.0",
+    "html-webpack-plugin": "^5.5.0",
+    "webpack": "^5.64.4",
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.6.0",
+    "webpack-merge": "^5.8.0"
+  },
+  "author": "Votre Prénom Votre Nom",
+  "license": "MIT"
+}
