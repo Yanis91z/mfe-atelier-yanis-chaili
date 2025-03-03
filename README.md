@@ -37,6 +37,7 @@ mfe-atelier-yanis-chaili
 
 2. Accédez au dossier `shell` et installez les dépendances :
    ```
+   cd mfe-atelier-yanis-chaili
    cd shell
    npm install
    ```
